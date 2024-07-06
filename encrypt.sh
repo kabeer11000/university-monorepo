@@ -1,0 +1,1 @@
+./process -key="$(cat .enc_key.txt)" -encrypt ./Content/ -d
